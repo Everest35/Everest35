@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## The name's Edward
-## I'm a student learning to code 
+## 🤕 I'm a student learning to code 
 
 ## 🔭 I’m currently working on my CAPRES1
 ## 🌱 I’m currently learning Information Technology
